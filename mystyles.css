@@ -1,0 +1,96 @@
+body {
+	font-family: Helvetica, Arial, sans-serif; 
+	margin: 0px;
+}
+
+header {
+	background-color: #3269c1;
+	color: white;
+	text-align: center; 
+	padding: 1em;
+}
+
+.name {
+	display: inline-block;
+	width: 400px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.ocupation {
+display: inline-block;
+width: 400px;
+font-weight: 200;
+}
+
+.short-description {
+	background-color: #32ba3d;
+	color: black;
+	text-align: center;
+	font-weight: 700; 
+	padding: 0.5em;
+}
+
+.section-wrap {
+	width: 960px;
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1em;
+
+}
+
+.block-wrap {
+	display: inline-block;
+	width: 65%;
+	vertical-align: top;
+}
+
+.item-wrap {
+	margin-top: 40px;
+}
+
+h3 {
+	margin:0;
+	font-size:36px;
+	font-weight: 700;
+}
+
+.subitem-wrap {
+	margin-left: 15px;
+}
+
+dl {
+	margin-top: 5px;
+}
+
+dt {
+	font-size: 20px;
+	margin-bottom: 11px;
+	margin-top: 0
+}
+
+dd {
+	margin-left: 20px;
+}
+
+.img-container {
+	display: inline-block;
+	width: 30%;
+	margin-top: 20px;
+
+}
+
+.profile-img {
+	margin-left: auto;
+	width: 90%;
+}
+
+ul {
+	margin-top: 12px;
+ 	padding: :0px;
+}
+
+li {
+	margin-top: 15px;
+}
